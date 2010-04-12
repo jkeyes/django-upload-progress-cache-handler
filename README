@@ -1,0 +1,4 @@
+This is a Django file upload handler that updates the cache with the progress of the upload.
+
+This is a slightly modified version of http://www.fairviewcomputing.com/blog/2008/10/21/ajax-upload-progress-bars-jquery-django-nginx/ 
+which was derived from http://www.djangosnippets.org/snippets/678.
